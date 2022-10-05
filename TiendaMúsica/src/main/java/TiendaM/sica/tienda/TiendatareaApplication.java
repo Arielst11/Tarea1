@@ -9,5 +9,7 @@ public class TiendatareaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TiendatareaApplication.class, args);
 	}
+int asf =1;
+int asdf = 0.1;
 
 }
